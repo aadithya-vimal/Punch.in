@@ -1,6 +1,6 @@
 # PunchIn: The Smartest Student Attendance & Study App
 
-###Link: https://punchin-tracker.pages.dev/
+### Link: https://punchin-tracker.pages.dev/
 
 PunchIn is a next-generation web app for college and university students who want total control over their attendance and study routines. Built entirely with React.js for snappy user experience and powered by the Gemini API for cutting-edge AI features, PunchIn goes far beyond just “punching in”—it helps students make the most of every class and study session.
 
